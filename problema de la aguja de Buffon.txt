@@ -1,0 +1,14 @@
+ problema de la aguja de Buffon
+Reference: https://en.wikipedia.org/wiki/Buffon%27s_needle
+
+    Step 1: find a toothpick, a match  or a short stick.
+    Step 2: Measuring the length of the stick. Let’s call it A.
+    Step 3: On a piece of paper, draw parallel lines that are an equal length apart. The spacing of the lines should be WIDER than the stick you found in step 1. 
+    Step 4: Note down the spacing between lines. Let’s call it B. 
+    Step 5: Following the instruction in this Excel sheet to construct confidence intervals for the theoretical probability of Buffon’s needle experiments.
+    Note the following: 
+
+    1. How the confidence intervals using 20 tosses differ from the confidence intervals based on 10 tosses?
+
+    2. How the confidence intervals change when you change the confidence level?
+    Post your findings on the discussion forum located in the next segment, after competing Optional Learning Activity: Buffon's Needle Revisited.
